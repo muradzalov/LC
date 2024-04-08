@@ -1,0 +1,10 @@
+# Ignore scratchpad file
+scratchpaper
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
+.env
